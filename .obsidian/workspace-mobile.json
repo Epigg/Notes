@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "4d1a4382b53b340f",
+    "type": "split",
+    "children": [
+      {
+        "id": "713630d23d017774",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d0c771a0de6b5e8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9336d4e08b51482c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3792f9903f57e00d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "c1fc75de60f50190",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "24191357e6f90bbd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "2d35f3f9952b1450",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "db2d6c313a215792",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3128a054ac82b810",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "CS 61C Fall 2020/RISC-V Module(Lec7-12)/Lec 10.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "55360e679764867c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "6. 102 Software Construction/01 Static Checking.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "cc38e05910c9085c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "6. 102 Software Construction/01 Static Checking.md"
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "2ab72a2f91755e08",
+        "type": "leaf",
+        "state": {
+          "type": "planner-timeline",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Timeline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8d0c771a0de6b5e8",
+  "lastOpenFiles": [
+    "公开课/CS61C Fall 2020/Cache(Lec24-27)/Lec 27.md",
+    "公开课/CS61C Fall 2020/Cache(Lec24-27)/Lec 26.md",
+    "公开课/CS61C Fall 2020/Cache(Lec24-27)/Lec 25.md",
+    "公开课/CS61C Fall 2020/Cache(Lec24-27)/Lec 24.md",
+    "公开课/CS61C Fall 2020/RISC-V Datapath(Lec18-23)/Lec 23.md",
+    "CS61C Fall 2020/RISC-V(Lec7-12)/Lec 12.md",
+    "CS61C Fall 2020/Lec 1.md",
+    "CS61C Fall 2020/RISC-V(Lec7-12)/Lec 7.md",
+    "未命名.canvas",
+    "CS61C Fall 2020/RISC-V(Lec7-12)/Lec 9.md",
+    "CS 61C Fall 2020/RISC-V Module(Lec7-12)/Lec 9.md",
+    "CS 61C Fall 2020/RISC-V Module(Lec7-12)/Lec 8.md",
+    "CS 61C Fall 2020/RISC-V Module(Lec7-12)/Lec 7.md",
+    "CS 61C Fall 2020/SDS&CL Module(Lec14-17)/Lec 14.md",
+    "CS 61C Fall 2020/Lec 10.md",
+    "CS 61C Fall 2020/Lec 8.md",
+    "CS 61C Fall 2020/Lec 7.md",
+    "CS 61C Fall 2020/Lec 6.md",
+    "CS 61C Fall 2020/Lec 4.md",
+    "CS 61C Fall 2020/Lec 3.md",
+    "CS 61C Fall 2020/Lec 9.md",
+    "CS 61C Fall 2020/Lec 11.md",
+    "lab 3.md",
+    "CS 61C Fall 2020/Lec 2.md",
+    "Latex.md",
+    "CS 61C Fall 2020/Lec 5.md",
+    "CS 61C Fall 2020/Lec 1.md",
+    "未命名",
+    "6. 102 Software Construction"
+  ]
+}
