@@ -172,7 +172,7 @@ C 要求知道对象在内存中的位置，否则事情不会像预期的那样
 
 ## When Memory Goes Bad
 
-C 指针的[[Lec 4#Dangers|好处和危险]]
+C 指针的[[CS Basic/CS61C Fall 2020/C(Lec3-5)/Lec 4#Dangers|好处和危险]]
 
 1. 改写并未分配的空间
 	- 将破坏程序的其他部分，之后可能会导致崩溃
