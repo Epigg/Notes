@@ -96,7 +96,7 @@
 ### Division (bad)
 
 $$
-h(k) = (k\ mod\ m)
+h(k) = (k\mod m)
 $$
 
 - 特点：
@@ -112,7 +112,7 @@ $$
 ### Universal (good, theoretically)
 
 $$
-h_{ab}(k) = (((ak + b)\ mod\ p)\ mod\ m)
+h_{ab}(k) = (((ak + b)\mod p)\mod m)
 $$
 
 #### Concept
